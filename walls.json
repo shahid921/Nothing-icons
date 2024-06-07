@@ -10,9 +10,9 @@
 	},
 {
 		"name": "#2",
-		"author": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/2.jpg",
-		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/2s.jpg",
-		"thumbnail": "",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/2.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/2s.jpg",
 		"downloadable" : "false",
 		"collections": "Vector"
 	},
@@ -26,9 +26,9 @@
 	},
 {
 		"name": "#4",
-		"author": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/4.jpg",
-		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/4s.jpg",
-		"thumbnail": "",
+		"author": "",
+		"url": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/4.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/shahid921/Nothing-icons/main/4s.jpg",
 		"downloadable" : "false",
 		"collections": "Vector"
 	},
